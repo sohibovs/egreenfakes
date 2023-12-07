@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:56:43	1293/1293	---M--	401	error ('Unauthorized')	text/html	date:Wed,%2006%20Dec%202023%2019:57:23%20GMT	http://Azim02:Azim0304@egreeneld.pro/robots.txt		(from )
+14:56:43	1293/1293	---M--	401	error ('Unauthorized')	text/html	date:Wed,%2006%20Dec%202023%2019:57:23%20GMT	http://Azim02:Azim0304@egreeneld.pro/	C:/Users/User/Desktop/egreens/www.egreenheavy.com/egreeneld.pro/index.html	(from )
